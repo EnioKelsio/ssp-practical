@@ -1,0 +1,53 @@
+<?xml version="1.0" ecoding="UTF-8"?>
+<menu>
+<category name = "Coffee">
+    <item>
+        <listing>Espresso</listing>
+        <price>3.00</price>
+    </item>
+    <item>
+        <listing>Latte</listing>
+        <price>3.50</price>
+    </item>
+</category>
+<category name = "Frappe">
+<item>
+        <listing>Salted Caramel Frappe</listing>
+        <price>4.50</price>
+    </item>
+    <item>
+        <listing>Mint Chocollate Frappe</listing>
+        <price>4.5</price>
+    </item>
+</category>
+<categoryname = "Iced Coffee">
+<item>
+        <listing>Ice Toasted Vanilla</listing>
+        <price>4.00</price>
+    </item>
+    <item>
+        <listing></listing>Iced Flat White
+        <price>4.00</price>
+    </item>
+</category>
+<category name = "Tea">
+<item>
+        <listing>Cinamon</listing>
+        <price>2.50</price>
+    </item>
+    <item>
+        <listing>Matte</listing>
+        <price>2.50</price>
+    </item>
+</category>
+<category name = "Desserts">
+<item>
+        <listing>Chocollate Brownie</listing>
+        <price>4.50</price>
+    </item>
+    <item>
+        <listing>Carrot Cake</listing>
+        <price>4.50</price>
+    </item>
+</category>
+</menu>
