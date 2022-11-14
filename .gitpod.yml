@@ -1,0 +1,2 @@
+tasks:
+  - int: npm i -g xslt3
